@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/single-price-grid-component-J6SLdPQYv4
 - Live Site URL: https://satryandi-miniproject16.netlify.app/
 
 ## My process
